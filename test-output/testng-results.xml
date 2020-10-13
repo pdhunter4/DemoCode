@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="65386" started-at="2020-10-13T10:27:21 IST" finished-at="2020-10-13T10:28:27 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="65386" started-at="2020-10-13T10:27:21 IST" finished-at="2020-10-13T10:28:27 IST">
+      <class name="weblinks.RSA_CoursesLinks">
+        <test-method status="PASS" signature="setup()[pri:0, instance:weblinks.RSA_CoursesLinks@2a17b7b6]" name="setup" is-config="true" duration-ms="9635" started-at="2020-10-13T10:27:22 IST" finished-at="2020-10-13T10:27:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkCoursesLink(java.lang.String)[pri:0, instance:weblinks.RSA_CoursesLinks@2a17b7b6]" name="checkCoursesLink" duration-ms="2015" started-at="2020-10-13T10:27:31 IST" data-provider="getCoursesName" finished-at="2020-10-13T10:27:33 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Web Security]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCoursesLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:weblinks.RSA_CoursesLinks@2a17b7b6]" name="tearDown" is-config="true" duration-ms="942" started-at="2020-10-13T10:27:33 IST" finished-at="2020-10-13T10:27:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:weblinks.RSA_CoursesLinks@2a17b7b6]" name="setup" is-config="true" duration-ms="9631" started-at="2020-10-13T10:27:34 IST" finished-at="2020-10-13T10:27:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkCoursesLink(java.lang.String)[pri:0, instance:weblinks.RSA_CoursesLinks@2a17b7b6]" name="checkCoursesLink" duration-ms="2360" started-at="2020-10-13T10:27:44 IST" data-provider="getCoursesName" finished-at="2020-10-13T10:27:46 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Selenium Webdriver]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCoursesLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:weblinks.RSA_CoursesLinks@2a17b7b6]" name="tearDown" is-config="true" duration-ms="1954" started-at="2020-10-13T10:27:46 IST" finished-at="2020-10-13T10:27:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:weblinks.RSA_CoursesLinks@2a17b7b6]" name="setup" is-config="true" duration-ms="9573" started-at="2020-10-13T10:27:48 IST" finished-at="2020-10-13T10:27:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkCoursesLink(java.lang.String)[pri:0, instance:weblinks.RSA_CoursesLinks@2a17b7b6]" name="checkCoursesLink" duration-ms="2153" started-at="2020-10-13T10:27:58 IST" data-provider="getCoursesName" finished-at="2020-10-13T10:28:00 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Learn SQL in Practical]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCoursesLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:weblinks.RSA_CoursesLinks@2a17b7b6]" name="tearDown" is-config="true" duration-ms="1208" started-at="2020-10-13T10:28:00 IST" finished-at="2020-10-13T10:28:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:weblinks.RSA_CoursesLinks@2a17b7b6]" name="setup" is-config="true" duration-ms="9713" started-at="2020-10-13T10:28:01 IST" finished-at="2020-10-13T10:28:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkCoursesLink(java.lang.String)[pri:0, instance:weblinks.RSA_CoursesLinks@2a17b7b6]" name="checkCoursesLink" duration-ms="2547" started-at="2020-10-13T10:28:11 IST" data-provider="getCoursesName" finished-at="2020-10-13T10:28:13 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Appium]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCoursesLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:weblinks.RSA_CoursesLinks@2a17b7b6]" name="tearDown" is-config="true" duration-ms="854" started-at="2020-10-13T10:28:13 IST" finished-at="2020-10-13T10:28:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:weblinks.RSA_CoursesLinks@2a17b7b6]" name="setup" is-config="true" duration-ms="9326" started-at="2020-10-13T10:28:14 IST" finished-at="2020-10-13T10:28:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkCoursesLink(java.lang.String)[pri:0, instance:weblinks.RSA_CoursesLinks@2a17b7b6]" name="checkCoursesLink" duration-ms="2500" started-at="2020-10-13T10:28:23 IST" data-provider="getCoursesName" finished-at="2020-10-13T10:28:26 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[WebServices/REST]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCoursesLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:weblinks.RSA_CoursesLinks@2a17b7b6]" name="tearDown" is-config="true" duration-ms="894" started-at="2020-10-13T10:28:26 IST" finished-at="2020-10-13T10:28:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- weblinks.RSA_CoursesLinks -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
